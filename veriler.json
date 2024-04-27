@@ -1,0 +1,432 @@
+{
+    "SK1": [
+        {
+            "Derinlik": 0.7,
+            "N": "-"
+        },
+        {
+            "Derinlik": 1.5,
+            "N": 14
+        },
+        {
+            "Derinlik": 3.0,
+            "N": "R"
+        },
+        {
+            "Derinlik": 4.5,
+            "N": 23
+        },
+        {
+            "Derinlik": 6.0,
+            "N": "R"
+        },
+        {
+            "Derinlik": 7.5,
+            "N": "R"
+        },
+        {
+            "Derinlik": 8.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 10.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 12.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 15.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 18.0,
+            "N": "K"
+        }
+    ],
+    "SK2": [
+        {
+            "Derinlik": 0.7,
+            "N": "-"
+        },
+        {
+            "Derinlik": 1.5,
+            "N": 14
+        },
+        {
+            "Derinlik": 3.0,
+            "N": "R"
+        },
+        {
+            "Derinlik": 4.5,
+            "N": "R"
+        },
+        {
+            "Derinlik": 6.0,
+            "N": "R"
+        },
+        {
+            "Derinlik": 7.5,
+            "N": "R"
+        },
+        {
+            "Derinlik": 9.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 10.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 13.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 16.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 19.0,
+            "N": "K"
+        }
+    ],
+    "SK3": [
+        {
+            "Derinlik": 0.7,
+            "N": "-"
+        },
+        {
+            "Derinlik": 1.5,
+            "N": 20
+        },
+        {
+            "Derinlik": 3.0,
+            "N": "R"
+        },
+        {
+            "Derinlik": 4.5,
+            "N": "R"
+        },
+        {
+            "Derinlik": 6.0,
+            "N": "R"
+        },
+        {
+            "Derinlik": 7.5,
+            "N": "R"
+        },
+        {
+            "Derinlik": 9.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 12.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 15.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 18.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 21.0,
+            "N": "K"
+        }
+    ],
+    "SK4": [
+        {
+            "Derinlik": 0.7,
+            "N": "-"
+        },
+        {
+            "Derinlik": 1.5,
+            "N": 18
+        },
+        {
+            "Derinlik": 3.0,
+            "N": 41
+        },
+        {
+            "Derinlik": 4.5,
+            "N": "R"
+        },
+        {
+            "Derinlik": 6.0,
+            "N": "R"
+        },
+        {
+            "Derinlik": 7.5,
+            "N": "R"
+        },
+        {
+            "Derinlik": 10.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 12.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 15.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 17.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 20.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 23.0,
+            "N": "K"
+        }
+    ],
+    "SK5": [
+        {
+            "Derinlik": 0.7,
+            "N": "-"
+        },
+        {
+            "Derinlik": 1.5,
+            "N": 17
+        },
+        {
+            "Derinlik": 3.0,
+            "N": 36
+        },
+        {
+            "Derinlik": 4.5,
+            "N": "R"
+        },
+        {
+            "Derinlik": 6.0,
+            "N": "R"
+        },
+        {
+            "Derinlik": 7.5,
+            "N": "R"
+        },
+        {
+            "Derinlik": 8.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 10.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 13.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 15.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 18.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 21.0,
+            "N": "K"
+        }
+    ],
+    "SK6": [
+        {
+            "Derinlik": 0.7,
+            "N": "-"
+        },
+        {
+            "Derinlik": 1.5,
+            "N": 17
+        },
+        {
+            "Derinlik": 3.0,
+            "N": 28
+        },
+        {
+            "Derinlik": 4.5,
+            "N": "R"
+        },
+        {
+            "Derinlik": 6.0,
+            "N": "R"
+        },
+        {
+            "Derinlik": 7.5,
+            "N": "R"
+        },
+        {
+            "Derinlik": 8.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 11.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 13.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 15.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 17.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 19.0,
+            "N": "K"
+        }
+    ],
+    "SK7": [
+        {
+            "Derinlik": 0.7,
+            "N": "-"
+        },
+        {
+            "Derinlik": 1.5,
+            "N": 22
+        },
+        {
+            "Derinlik": 3.0,
+            "N": 37
+        },
+        {
+            "Derinlik": 4.5,
+            "N": "R"
+        },
+        {
+            "Derinlik": 6.0,
+            "N": "R"
+        },
+        {
+            "Derinlik": 7.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 10.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 12.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 14.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 16.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 19.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 21.0,
+            "N": "K"
+        }
+    ],
+    "SK8": [
+        {
+            "Derinlik": 0.7,
+            "N": "-"
+        },
+        {
+            "Derinlik": 1.5,
+            "N": "R"
+        },
+        {
+            "Derinlik": 3.0,
+            "N": "R"
+        },
+        {
+            "Derinlik": 4.5,
+            "N": "R"
+        },
+        {
+            "Derinlik": 6.0,
+            "N": "R"
+        },
+        {
+            "Derinlik": 7.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 10.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 13.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 16.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 19.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 21.0,
+            "N": "K"
+        }
+    ],
+    "SK9": [
+        {
+            "Derinlik": 0.7,
+            "N": "-"
+        },
+        {
+            "Derinlik": 1.5,
+            "N": "R"
+        },
+        {
+            "Derinlik": 3.0,
+            "N": "R"
+        },
+        {
+            "Derinlik": 4.5,
+            "N": "R"
+        },
+        {
+            "Derinlik": 6.0,
+            "N": "R"
+        },
+        {
+            "Derinlik": 7.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 9.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 12.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 15.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 17.0,
+            "N": "K"
+        },
+        {
+            "Derinlik": 20.0,
+            "N": "K"
+        }
+    ]
+}
